@@ -1,3 +1,5 @@
+package monte_carlo;
+
 import java.util.Scanner;
 
 public class main {
